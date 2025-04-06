@@ -2,7 +2,7 @@
 body {
   font-family: "Roboto", sans-serif; /*симейство ( имя щрифта)
      */
-  color: var(--grey-color);
+  color: $grey-color;
   line-height: 1.4;
   font-size: 15px;
 }
